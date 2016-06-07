@@ -1,0 +1,20 @@
+{
+  "name": "com.github.uralbash.qmltranslator",
+ "description": "Class for translations strings in C++/Qml code",
+  "author": {
+    "name": "Svintsov Dmitry",
+    "email": "root@uralbash.ru"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": "https://github.com/uralbash/qmltranslator.git"
+  },
+  "version": {
+    "label": "0.0.1"
+  },
+  "dependencies": [
+  ],
+  "license": "MIT",
+  "pri_filename": "qmltranslator.pri",
+ "webpage": "https://github.com/uralbash/qmltranslator"
+}
